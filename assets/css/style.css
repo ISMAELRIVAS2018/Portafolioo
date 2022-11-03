@@ -607,6 +607,10 @@ main {
   overflow: hidden;
 }
 
+.testimonials-item-title a {
+  color: var(--white-2);
+  text-transform: capitalize;
+}
 
 /**
  * #testimonials-modal
